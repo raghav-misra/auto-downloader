@@ -17,7 +17,7 @@ In your file, replace [DIRECT-LINK] with the link you copied. <br/>
 Then, replace [NEW-VERSION] with the latest version. <br/>
 Lastly, host your text file online as well. <br/>
 ___
-## The Code Version - C#:
+## Using The Code Version - C#:
 > At The Top:
 ```csharp
 using AutoDownloader;
@@ -30,7 +30,7 @@ AutoUpdate.Update(Uri InfoFileURL, Decimal CurrentVersion, String DownloadFileNa
 * CurrentVersion is the version of the current assembly on the computer.
 * DownloadFileName is the name of the file that will be downloaded (make sure to add the file type).
 ___
-## The Code - VB.NET:
+## Using The Code - VB.NET:
 > At The Top:
 ```vb.net
 Imports AutoDownloader
