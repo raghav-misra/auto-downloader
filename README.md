@@ -3,7 +3,8 @@ Auto downloader/updater for C#/VB.NET Windows Forms Applications
 ___
 ## Prerequisites:
 * An online file host that can create direct links
-  * Website builders often do the trick
+  * Website builders often do the trick.
+  * *GitHub* works too!
 * An empty file (any file format)
 * The file you want to download
 ___
