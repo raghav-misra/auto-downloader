@@ -8,7 +8,6 @@ ___
 ___
 ## The Bare Code:
 > C#:
-At the top:
 ```csharp
 using AutoDownloader;
 ```
