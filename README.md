@@ -18,7 +18,7 @@ In your file, replace [DIRECT-LINK] with the link you copied. <br/>
 Then, replace [NEW-VERSION] with the latest version. <br/>
 Lastly, host your text file online as well. <br/>
 ___
-## Using The Code Version - C#:
+## Using The Code - C#:
 > At The Top:
 ```csharp
 using AutoDownloader;
