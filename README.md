@@ -51,5 +51,11 @@ ___
 * Set AssemblyVersion to the current version.
 * Set FileInfoURL to the direct link to the text file.
 * Set SaveFileName to the name of the final downloaded file (make sure to add the file type).
-
-
+___
+## How to Configure Downloader:
+After you make a new version, to configure the auto-downloader, do the following:
+1. Create a direct link for the new version of the assembly
+2. Replace it with the current one (DownloadFileURL) in the text file
+3. Change the version number (Version) on the text file
+___
+## You're All Set!
