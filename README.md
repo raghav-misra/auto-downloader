@@ -19,5 +19,18 @@ AutoUpdate.Update(Uri InfoFileURL, Decimal CurrentVersion, String DownloadFileNa
 * InfoFileURL is the download link to the file with all the information about the app.
 * CurrentVersion is the version of the current assembly on the computer.
 * DownloadFileName is the name of the file that will be downloaded.
-
+___
+## The Bare Code - VB.NET:
+> At The Top:
+```vb.net
+Imports AutoDownloader
+```
+> In your code:
+```vb.net
+AutoUpdate.Update(Uri InfoFileURL, Decimal CurrentVersion, String DownloadFileName)
+```
+* InfoFileURL is the download link to the file with all the information about the app.
+* CurrentVersion is the version of the current assembly on the computer.
+* DownloadFileName is the name of the file that will be downloaded.
+___
 
