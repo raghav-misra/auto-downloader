@@ -47,6 +47,6 @@ ___
 1. Drag the DownloadButton into the toolbox: <br/>
 ![alt text](https://cdn.discordapp.com/attachments/277558215506526209/406641916260909068/unknown.png "Drag Button Onto Form")
 2. Set the Button Properties: <br/>
-![alt text](https://cdn.discordapp.com/attachments/277558215506526209/406639950826700822/unknown.png "Set Properties")
+![alt text](https://cdn.discordapp.com/attachments/277558215506526209/406642495015878687/unknown.png "Set Properties")
 
 
