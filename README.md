@@ -43,8 +43,8 @@ AutoUpdate.Update(Uri InfoFileURL, Decimal CurrentVersion, String DownloadFileNa
 * CurrentVersion is the version of the current assembly on the computer.
 * DownloadFileName is the name of the file that will be downloaded.
 ___
-## The Button Control - C#:
-1. Drag the DownloadButton into the toolbox:
+## Using the Button Control:
+1. Drag the DownloadButton into the toolbox: <br/>
 Inline-style: 
 ![alt text](https://cdn.discordapp.com/attachments/277558215506526209/406639950826700822/unknown.png "Drag Button Onto Form")
 
