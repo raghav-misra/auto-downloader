@@ -11,10 +11,10 @@ ___
 1. Host the file you want to download online and copy the direct link.
 2. In the empty file you created, type the following:
 > (DownloadFileURL): [DIRECT-LINK] <br/>
-> (Version): [NEW-VERSION]
-In your file, replace [DIRECT-LINK] with the link you copied.
-Then, replace [NEW-VERSION] with the latest version.
-Lastly, host your text file online as well.
+> (Version): [NEW-VERSION] <br/>
+In your file, replace [DIRECT-LINK] with the link you copied. <br/>
+Then, replace [NEW-VERSION] with the latest version. <br/>
+Lastly, host your text file online as well. <br/>
 ___
 ## The Bare Code - C#:
 > At The Top:
