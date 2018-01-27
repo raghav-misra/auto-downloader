@@ -17,7 +17,7 @@ In your file, replace [DIRECT-LINK] with the link you copied. <br/>
 Then, replace [NEW-VERSION] with the latest version. <br/>
 Lastly, host your text file online as well. <br/>
 ___
-## The Bare Code - C#:
+## The Code Version - C#:
 > At The Top:
 ```csharp
 using AutoDownloader;
@@ -26,11 +26,11 @@ using AutoDownloader;
 ```csharp
 AutoUpdate.Update(Uri InfoFileURL, Decimal CurrentVersion, String DownloadFileName);
 ```
-* InfoFileURL is the download link to the file with all the information about the app.
+* InfoFileURL is the download link to the text file with all the information about the app.
 * CurrentVersion is the version of the current assembly on the computer.
 * DownloadFileName is the name of the file that will be downloaded.
 ___
-## The Bare Code - VB.NET:
+## The Code - VB.NET:
 > At The Top:
 ```vb.net
 Imports AutoDownloader
@@ -39,8 +39,13 @@ Imports AutoDownloader
 ```vb.net
 AutoUpdate.Update(Uri InfoFileURL, Decimal CurrentVersion, String DownloadFileName)
 ```
-* InfoFileURL is the download link to the file with all the information about the app.
+* InfoFileURL is the download link to the text file with all the information about the app.
 * CurrentVersion is the version of the current assembly on the computer.
 * DownloadFileName is the name of the file that will be downloaded.
 ___
+## The Button Control - C#:
+1. Drag the DownloadButton into the toolbox:
+Inline-style: 
+![alt text](https://cdn.discordapp.com/attachments/277558215506526209/406639950826700822/unknown.png "Drag Button Onto Form")
+
 
