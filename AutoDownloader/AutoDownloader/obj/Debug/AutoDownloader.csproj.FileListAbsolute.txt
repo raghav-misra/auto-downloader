@@ -1,0 +1,8 @@
+C:\Users\-OBLIV-MrCool4000\source\repos\AutoDownloader\AutoDownloader\bin\Debug\AutoDownloader.dll
+C:\Users\-OBLIV-MrCool4000\source\repos\AutoDownloader\AutoDownloader\bin\Debug\AutoDownloader.pdb
+C:\Users\-OBLIV-MrCool4000\source\repos\AutoDownloader\AutoDownloader\obj\Debug\AutoDownloader.csprojResolveAssemblyReference.cache
+C:\Users\-OBLIV-MrCool4000\source\repos\AutoDownloader\AutoDownloader\obj\Debug\AutoDownloader.DownloadButton.resources
+C:\Users\-OBLIV-MrCool4000\source\repos\AutoDownloader\AutoDownloader\obj\Debug\AutoDownloader.csproj.GenerateResource.Cache
+C:\Users\-OBLIV-MrCool4000\source\repos\AutoDownloader\AutoDownloader\obj\Debug\AutoDownloader.csproj.CoreCompileInputs.cache
+C:\Users\-OBLIV-MrCool4000\source\repos\AutoDownloader\AutoDownloader\obj\Debug\AutoDownloader.dll
+C:\Users\-OBLIV-MrCool4000\source\repos\AutoDownloader\AutoDownloader\obj\Debug\AutoDownloader.pdb
