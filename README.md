@@ -5,6 +5,7 @@ ___
 * An online file host that can create direct links
   * Website builders often do the trick.
   * *GitHub* works too!
+  * Your own host.
 * An empty file (any file format)
 * The file you want to download
 ___
