@@ -1,4 +1,4 @@
-# *Splix Auto Downloader*
+# Auto Downloader
 Auto downloader/updater for C#/VB.NET Windows Forms Applications
 ___
 ## Prerequisites:
